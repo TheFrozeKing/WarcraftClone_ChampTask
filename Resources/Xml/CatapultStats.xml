@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<AttackingUnitStats xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Catapult</Name>
+  <Speed>4</Speed>
+  <Health>40</Health>
+  <ResourceTypesNeeded>
+    <ResourceType>Wood</ResourceType>
+    <ResourceType>Stone</ResourceType>
+  </ResourceTypesNeeded>
+  <ResourceAmountsNeeded>
+    <int>3</int>
+    <int>3</int>
+  </ResourceAmountsNeeded>
+  <DetectionRadius>1</DetectionRadius>
+  <MinAttackRadius>0</MinAttackRadius>
+  <MaxAttackRadius>10</MaxAttackRadius>
+  <AttackDelay>2</AttackDelay>
+  <Damage>10</Damage>
+</AttackingUnitStats>

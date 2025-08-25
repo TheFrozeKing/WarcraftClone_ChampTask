@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<HealerStats xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Worker</Name>
+  <Speed>12</Speed>
+  <Health>20</Health>
+  <ResourceTypesNeeded>
+    <ResourceType>Stone</ResourceType>
+  </ResourceTypesNeeded>
+  <ResourceAmountsNeeded>
+    <int>2</int>
+  </ResourceAmountsNeeded>
+  <DetectionRadius>1</DetectionRadius>
+  <MinHealDistance>0</MinHealDistance>
+  <MaxHealDistance>5</MaxHealDistance>
+  <HealDelay>1</HealDelay>
+  <HealAmount>2</HealAmount>
+</HealerStats>

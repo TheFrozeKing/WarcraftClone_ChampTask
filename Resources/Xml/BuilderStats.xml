@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<BuilderStats xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Worker</Name>
+  <Speed>12</Speed>
+  <Health>20</Health>
+  <ResourceTypesNeeded>
+    <ResourceType>Wood</ResourceType>
+  </ResourceTypesNeeded>
+  <ResourceAmountsNeeded>
+    <int>1</int>
+  </ResourceAmountsNeeded>
+  <DetectionRadius>1</DetectionRadius>
+  <MineSpeed>1</MineSpeed>
+  <RepairSpeed>2</RepairSpeed>
+  <RepairAmount>5</RepairAmount>
+</BuilderStats>

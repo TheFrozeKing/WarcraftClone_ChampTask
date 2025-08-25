@@ -1,0 +1,4 @@
+repository "опять варкрафт@TheFrozeKing@cloud"
+  path "/"
+    br "/main"
+    co "/main"

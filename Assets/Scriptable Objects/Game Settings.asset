@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 387f898724156b74d92ce4b0de6513ea, type: 3}
+  m_Name: Game Settings
+  m_EditorClassIdentifier: 
+  Players:
+  - Color: {r: 0.5339932, g: 0.18521726, b: 0.88425374, a: 1}
+    Name: "\u0418\u0433\u0440\u043E\u043A 1"
+  - Color: {r: 0.29569858, g: 0.3092311, b: 0.47662157, a: 1}
+    Name: "\u041F\u0440\u043E\u0442\u0438\u0432\u043D\u0438\u043A 1"
+  MainPlayer:
+    Color: {r: 0.5339932, g: 0.18521726, b: 0.88425374, a: 1}
+    Name: "\u0418\u0433\u0440\u043E\u043A 1"
+  Difficulty: "\u041B\u0451\u0433\u043A\u0438\u0439"
+  MapSize: 10000

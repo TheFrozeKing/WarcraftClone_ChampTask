@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArcherTowerStats xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Archer Tower</Name>
+  <Speed>6</Speed>
+  <Health>30</Health>
+  <ResourceTypesNeeded>
+    <ResourceType>Metal</ResourceType>
+  </ResourceTypesNeeded>
+  <ResourceAmountsNeeded>
+    <int>2</int>
+  </ResourceAmountsNeeded>
+  <DetectionRadius>1</DetectionRadius>
+  <MinAttackRadius>2</MinAttackRadius>
+  <MaxAttackRadius>8</MaxAttackRadius>
+  <AttackDelay>2</AttackDelay>
+  <Damage>0</Damage>
+  <Capacity>10</Capacity>
+  <DamagePerArcher>5</DamagePerArcher>
+</ArcherTowerStats>

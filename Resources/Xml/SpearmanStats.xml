@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<AttackingUnitStats xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Spearman</Name>
+  <Speed>13</Speed>
+  <Health>25</Health>
+  <ResourceTypesNeeded>
+    <ResourceType>Stone</ResourceType>
+  </ResourceTypesNeeded>
+  <ResourceAmountsNeeded>
+    <int>1</int>
+  </ResourceAmountsNeeded>
+  <DetectionRadius>1</DetectionRadius>
+  <MinAttackRadius>0</MinAttackRadius>
+  <MaxAttackRadius>10</MaxAttackRadius>
+  <AttackDelay>1</AttackDelay>
+  <Damage>5</Damage>
+</AttackingUnitStats>

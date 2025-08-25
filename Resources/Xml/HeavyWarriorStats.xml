@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<AttackingUnitStats xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Heavy Warrior</Name>
+  <Speed>12</Speed>
+  <Health>30</Health>
+  <ResourceTypesNeeded>
+    <ResourceType>Stone</ResourceType>
+    <ResourceType>Metal</ResourceType>
+  </ResourceTypesNeeded>
+  <ResourceAmountsNeeded>
+    <int>2</int>
+    <int>2</int>
+  </ResourceAmountsNeeded>
+  <DetectionRadius>1</DetectionRadius>
+  <MinAttackRadius>0</MinAttackRadius>
+  <MaxAttackRadius>10</MaxAttackRadius>
+  <AttackDelay>1</AttackDelay>
+  <Damage>6</Damage>
+</AttackingUnitStats>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<AttackingUnitStats xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Archer</Name>
+  <Speed>8</Speed>
+  <Health>20</Health>
+  <ResourceTypesNeeded>
+    <ResourceType>Wood</ResourceType>
+  </ResourceTypesNeeded>
+  <ResourceAmountsNeeded>
+    <int>3</int>
+  </ResourceAmountsNeeded>
+  <DetectionRadius>1</DetectionRadius>
+  <MinAttackRadius>0</MinAttackRadius>
+  <MaxAttackRadius>10</MaxAttackRadius>
+  <AttackDelay>1</AttackDelay>
+  <Damage>4</Damage>
+</AttackingUnitStats>
